@@ -16,7 +16,7 @@
 
 | Order | Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---------------------------: | :----------: | :----------: |
-| 1     |         |                               |              |              |
+| 1     |  Erin   |       Big 0 Notation          |              |              |
 | 2     |         |                               |              |              |
 | 3     |         |                               |              |              |
 | 4     |         |                               |              |              |
@@ -73,7 +73,7 @@
 
 - Algorithms
 
-  - [ ] Big O notation
+  - [X] Big O notation
   - [ ] Binary search & Git bisect
   - [ ] Common sorting algorithms
 
