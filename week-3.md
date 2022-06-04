@@ -18,7 +18,7 @@
 | ----- |  :-----: | :---------------------------: | :----------: | :----------: |
 | 1     |  Erin    |       Big 0 Notation          |              |              |
 | 2     |Christelle|       Destructuring           |              |              |
-| 3     |          |                               |              |              |
+| 3     | Tony     |       SQL joins               |              |              |
 | 4     |          |                               |              |              |
 | 5     |          |                               |              |              |
 | 6     |          |                               |              |              |
@@ -63,7 +63,7 @@
 
   - [ ] Database indexes
   - [ ] DDL, DNL, DCL, TCL
-  - [ ] SQL joins (left, right, inner, outer, full)
+  - [X] SQL joins (left, right, inner, outer, full)
 
 - Git commands
 
