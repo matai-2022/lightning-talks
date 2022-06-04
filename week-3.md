@@ -14,17 +14,17 @@
 
 ### Group 1
 
-| Order | Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :---------------------------: | :----------: | :----------: |
-| 1     |  Erin   |       Big 0 Notation          |              |              |
-| 2     |         |                               |              |              |
-| 3     |         |                               |              |              |
-| 4     |         |                               |              |              |
-| 5     |         |                               |              |              |
-| 6     |         |                               |              |              |
-| 7     |         |                               |              |              |
-| 8     |         |                               |              |              |
-| 9     |         |                               |              |              |
+| Order |  Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
+| ----- |  :-----: | :---------------------------: | :----------: | :----------: |
+| 1     |  Erin    |       Big 0 Notation          |              |              |
+| 2     |Christelle|       Destructuring           |              |              |
+| 3     |          |                               |              |              |
+| 4     |          |                               |              |              |
+| 5     |          |                               |              |              |
+| 6     |          |                               |              |              |
+| 7     |          |                               |              |              |
+| 8     |          |                               |              |              |
+| 9     |          |                               |              |              |
 
 ### Group 2
 
@@ -56,7 +56,7 @@
   - [ ] Asynchronous JavaScript with Generators
   - [ ] Babel & Transpiling
   - [ ] Default parameters, Rest & Spread operators
-  - [ ] Destructuring
+  - [X] Destructuring
   - [ ] `Map` and `Set`
 
 - Relational databases
