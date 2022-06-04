@@ -10,7 +10,7 @@
 1. Commit your changes.
 1. Prepare your talk.
 
-## Schedule
+## Schedule 
 
 ### Group 1
 
@@ -21,7 +21,7 @@
 | 3     | Tony     |       SQL joins               |              |              |
 | 4     |          |                               |              |              |
 | 5     |          |                               |              |              |
-| 6     |          |                               |              |              |
+| 6     |  Rakim   |          Pure                 |              |              |
 | 7     |          |                               |              |              |
 | 8     |          |                               |              |              |
 | 9     |          |                               |              |              |
@@ -88,7 +88,7 @@
 - UI Framework
 
   - [ ] Milligram
-  - [ ] Pure
+  - [X] Pure
 
 - Misc.
 
