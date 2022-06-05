@@ -20,7 +20,7 @@
 | 2     |Christelle|       Destructuring           |              |              |
 | 3     | Tony     |       SQL joins               |              |              |
 | 4     | Docie    |      Git Cherry Pick          |              |              |              
-| 5     |          |                               |              |              |
+| 5     | Daniel   |       DDL, DNL, DCL, TCL      |              |              |
 | 6     |  Rakim   |          Pure                 |              |              |
 | 7     |          |                               |              |              |
 | 8     |          |                               |              |              |
@@ -62,7 +62,7 @@
 - Relational databases
 
   - [ ] Database indexes
-  - [ ] DDL, DNL, DCL, TCL
+  - [X] DDL, DNL, DCL, TCL
   - [X] SQL joins (left, right, inner, outer, full)
 
 - Git commands
