@@ -19,7 +19,7 @@
 | 1     |  Erin    |       Big 0 Notation          |              |              |
 | 2     |Christelle|       Destructuring           |              |              |
 | 3     | Tony     |       SQL joins               |              |              |
-| 4     |          |                               |              |              |
+| 4     | Docie    |      Git Cherry Pick          |              |              |              
 | 5     |          |                               |              |              |
 | 6     |  Rakim   |          Pure                 |              |              |
 | 7     |          |                               |              |              |
@@ -68,7 +68,7 @@
 - Git commands
 
   - [ ] `git blame`
-  - [ ] `git cherry-pick`
+  - [X] `git cherry-pick`
   - [ ] `git rebase`
 
 - Algorithms
