@@ -10,35 +10,34 @@
 1. Commit your changes.
 1. Prepare your talk.
 
-## Schedule 
+## Schedule
 
 ### Group 1
 
-| Order |  Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- |  :-----: | :---------------------------: | :----------: | :----------: |
-| 1     |  Erin    |       Big 0 Notation          |              |              |
-| 2     |Christelle|       Destructuring           |              |              |
-| 3     | Tony     |       SQL joins               |              |              |
-| 4     | Docie    |      Git Cherry Pick          |              |              |              
-| 5     | Daniel   |       DDL, DNL, DCL, TCL      |              |              |
-| 6     |  Rakim   |          Pure                 |              |              |
-| 7     |          |                               |              |              |
-| 8     |          |                               |              |              |
-| 9     |          |                               |              |              |
+| Order |  Speaker   |       Topic        | Feedbacker 1 | Feedbacker 2 |
+| ----- | :--------: | :----------------: | :----------: | :----------: |
+| 1     |    Erin    |   Big 0 Notation   |              |              |
+| 2     | Christelle |   Destructuring    |              |              |
+| 3     |    Tony    |     SQL joins      |              |              |
+| 4     |   Docie    |  Git Cherry Pick   |              |              |
+| 5     |   Daniel   | DDL, DNL, DCL, TCL |              |              |
+| 6     |   Rakim    |        Pure        |              |              |
+| 7     |   Lucas    |     Git blame      |              |              |
+| 8     |            |                    |              |              |
+| 9     |            |                    |              |              |
 
 ### Group 2
 
-| Order | Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :---------------------------: | :----------: | :----------: |
-| 1     |         |                               |              |              |
-| 2     |         |                               |              |              |
-| 3     |         |                               |              |              |
-| 4     |         |                               |              |              |
-| 5     |         |                               |              |              |
-| 6     |         |                               |              |              |
-| 7     |         |                               |              |              |
-| 8     |         |                               |              |              |
-
+| Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :---: | :----------: | :----------: |
+| 1     |         |       |              |              |
+| 2     |         |       |              |              |
+| 3     |         |       |              |              |
+| 4     |         |       |              |              |
+| 5     |         |       |              |              |
+| 6     |         |       |              |              |
+| 7     |         |       |              |              |
+| 8     |         |       |              |              |
 
 ## Topics
 
@@ -56,24 +55,24 @@
   - [ ] Asynchronous JavaScript with Generators
   - [ ] Babel & Transpiling
   - [ ] Default parameters, Rest & Spread operators
-  - [X] Destructuring
+  - [x] Destructuring
   - [ ] `Map` and `Set`
 
 - Relational databases
 
   - [ ] Database indexes
-  - [X] DDL, DNL, DCL, TCL
-  - [X] SQL joins (left, right, inner, outer, full)
+  - [x] DDL, DNL, DCL, TCL
+  - [x] SQL joins (left, right, inner, outer, full)
 
 - Git commands
 
-  - [ ] `git blame`
-  - [X] `git cherry-pick`
+  - [x] `git blame`
+  - [x] `git cherry-pick`
   - [ ] `git rebase`
 
 - Algorithms
 
-  - [X] Big O notation
+  - [x] Big O notation
   - [ ] Binary search & Git bisect
   - [ ] Common sorting algorithms
 
@@ -88,7 +87,7 @@
 - UI Framework
 
   - [ ] Milligram
-  - [X] Pure
+  - [x] Pure
 
 - Misc.
 
