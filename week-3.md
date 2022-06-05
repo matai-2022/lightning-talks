@@ -35,7 +35,7 @@
 | 3     |Jingjing |           Angular           |              |              |
 | 4     |         |                             |              |              |
 | 5     |         |                             |              |              |
-| 6     |         |                             |              |              |
+| 6     | Saia    | Fundamentals of encryption  |              |              |
 | 7     |         |                             |              |              |
 | 8     |         |                             |              |              |
 
@@ -45,7 +45,7 @@
 
   - [ ] CORS
   - [x] Cross site scripting
-  - [ ] Fundamentals of encryption
+  - [x] Fundamentals of encryption
   - [ ] Heartbleed SSH vulnerability
   - [x] SQL Injection attack
 
