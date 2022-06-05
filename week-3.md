@@ -15,7 +15,7 @@
 ### Group 1
 
 | Order |  Speaker   |       Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :--------: || :----------: | :----------: |
+| ----- | :--------: |  :---------------------:| :----------: | :----------: |
 | 1     |    Erin    |   Big 0 Notation        |              |              |
 | 2     | Christelle |   Destructuring         |              |              |
 | 3     |    Tony    |     SQL joins           |              |              |
