@@ -32,7 +32,7 @@
 | ----- | :-----: | :---: | :----------: | :----------: |
 | 1     |         |       |              |              |
 | 2     |         |       |              |              |
-| 3     |         |       |              |              |
+| 3     |Jingjing |Angular|              |              |
 | 4     |         |       |              |              |
 | 5     |         |       |              |              |
 | 6     |         |       |              |              |
@@ -78,7 +78,7 @@
 
 - JavaScript libraries
 
-  - [ ] Angular
+  - [x] Angular
   - [ ] Immutable.js
   - [ ] Lodash
   - [ ] rx.js
