@@ -15,7 +15,7 @@
 ### Group 1
 
 | Order |  Speaker   |       Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :--------: | :---------------------: | :----------: | :----------: |
+| ----- | :--------: || :----------: | :----------: |
 | 1     |    Erin    |   Big 0 Notation        |              |              |
 | 2     | Christelle |   Destructuring         |              |              |
 | 3     |    Tony    |     SQL joins           |              |              |
@@ -28,23 +28,23 @@
 
 ### Group 2
 
-| Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :---: | :----------: | :----------: |
-| 1     |         |       |              |              |
-| 2     |         |       |              |              |
-| 3     |Jingjing |Angular|              |              |
-| 4     |         |       |              |              |
-| 5     |         |       |              |              |
-| 6     |         |       |              |              |
-| 7     |         |       |              |              |
-| 8     |         |       |              |              |
+| Order | Speaker |           Topic             | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: |  :---------------------:    | :----------: | :----------: |
+| 1     |  Yiyu   |   Cross site scripting      |              |              |
+| 2     |         |                             |              |              |
+| 3     |Jingjing |           Angular           |              |              |
+| 4     |         |                             |              |              |
+| 5     |         |                             |              |              |
+| 6     |         |                             |              |              |
+| 7     |         |                             |              |              |
+| 8     |         |                             |              |              |
 
 ## Topics
 
 - Security
 
   - [ ] CORS
-  - [ ] Cross site scripting
+  - [x] Cross site scripting
   - [ ] Fundamentals of encryption
   - [ ] Heartbleed SSH vulnerability
   - [x] SQL Injection attack
