@@ -24,7 +24,7 @@
 | 6     |   Rakim    |        Pure             |              |              |
 | 7     |   Lucas    |     Git blame           |              |              |
 | 8     |    Dee     |Common sorting algorithms|              |              |
-| 9     |            |                         |              |              |
+| 9     |   David    |SQL INJECTION ATTACK     |              |              |
 
 ### Group 2
 
@@ -47,7 +47,7 @@
   - [ ] Cross site scripting
   - [ ] Fundamentals of encryption
   - [ ] Heartbleed SSH vulnerability
-  - [ ] SQL Injection attack
+  - [x] SQL Injection attack
 
 - ECMAScript 6 (ES6)
 
