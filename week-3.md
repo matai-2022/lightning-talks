@@ -33,10 +33,10 @@
 | 1     |  Yiyu   |   Cross site scripting      |              |              |
 | 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
 | 3     |Jingjing |           Angular           |              |              |
-| 4     |  Liam   |                             |              |              |
+| 4     |         |                             |              |              |
 | 5     |         |                             |              |              |
 | 6     | Saia    | Fundamentals of encryption  |              |              |
-| 7     |         |                             |              |              |
+| 7     | Liam    |                             |              |              |
 | 8     |         |                             |              |              |
 
 ## Topics
