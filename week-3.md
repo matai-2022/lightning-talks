@@ -31,7 +31,7 @@
 | Order | Speaker |           Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: |  :---------------------:    | :----------: | :----------: |
 | 1     |  Yiyu   |   Cross site scripting      |              |              |
-| 2     |         |                             |              |              |
+| 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
 | 3     |Jingjing |           Angular           |              |              |
 | 4     |         |                             |              |              |
 | 5     |         |                             |              |              |
@@ -46,7 +46,7 @@
   - [ ] CORS
   - [x] Cross site scripting
   - [x] Fundamentals of encryption
-  - [ ] Heartbleed SSH vulnerability
+  - [x] Heartbleed SSH vulnerability
   - [x] SQL Injection attack
 
 - ECMAScript 6 (ES6)
