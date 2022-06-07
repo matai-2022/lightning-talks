@@ -30,12 +30,12 @@
 
 | Order | Speaker |           Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: |  :---------------------:    | :----------: | :----------: |
-| 1     |  Yiyu   |   Cross site scripting      |      Ciara        |              |
+| 1     |  Yiyu   |   Cross site scripting      |      Ciara   |              |
 | 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
-| 3     |Jingjing |           Angular           |    Ciara          |              |
+| 3     |Jingjing |           Angular           |    Ciara     |              |
 | 4     |  Phu    | Async JS with generators    |              |              |
-| 5     |    Ciara    Pitfalls of cyrptocurrency |                             |              |              |
-| 6     | Saia    | Fundamentals of encryption  |              |              |
+| 5     |    Ciara|  Pitfalls of cyrptocurrency |         Phu  |              |
+| 6     | Saia    | Fundamentals of encryption  |         Phu  |              |
 | 7     | Liam    |                             |              |              |
 | 8     |         |                             |              |              |
 
