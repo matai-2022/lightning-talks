@@ -17,10 +17,10 @@
 | Order |  Speaker   |       Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :--------: |  :---------------------:| :----------: | :----------: |
 | 1     |    Erin    |   Big 0 Notation        |              |              |
-| 2     | Christelle |   Destructuring         |              |              |
+| 2     | Christelle |   Destructuring         |  Dee         |              |
 | 3     |    Tony    |     SQL joins           |              |              |
 | 4     |   Docie    |  Git Cherry Pick        |  Christelle  |              |
-| 5     |   Daniel   | DDL, DNL, DCL, TCL      |              |              |
+| 5     |   Daniel   | DDL, DNL, DCL, TCL      |  Dee         |              |
 | 6     |   Rakim    |        Pure             |              |              |
 | 7     |   Lucas    |     Git blame           |              |              |
 | 8     |    Dee     |Common sorting algorithms|  Christelle  |              |
