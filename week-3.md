@@ -33,7 +33,7 @@
 | 1     |  Yiyu   |   Cross site scripting      |      Ciara        |              |
 | 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
 | 3     |Jingjing |           Angular           |    Ciara          |              |
-| 4     |         |                             |              |              |
+| 4     |  Phu    | Async JS with generators    |              |              |
 | 5     |    Ciara    Pitfalls of cyrptocurrency |                             |              |              |
 | 6     | Saia    | Fundamentals of encryption  |              |              |
 | 7     | Liam    |                             |              |              |
@@ -52,7 +52,7 @@
 - ECMAScript 6 (ES6)
 
   - [ ] `Array.from()`, `Array.fill()`
-  - [ ] Asynchronous JavaScript with Generators
+  - [x] Asynchronous JavaScript with Generators
   - [ ] Babel & Transpiling
   - [ ] Default parameters, Rest & Spread operators
   - [x] Destructuring
