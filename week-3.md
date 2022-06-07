@@ -30,11 +30,11 @@
 
 | Order | Speaker |           Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: |  :---------------------:    | :----------: | :----------: |
-| 1     |  Yiyu   |   Cross site scripting      |              |              |
+| 1     |  Yiyu   |   Cross site scripting      |      Ciara        |              |
 | 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
-| 3     |Jingjing |           Angular           |              |              |
+| 3     |Jingjing |           Angular           |    Ciara          |              |
 | 4     |         |                             |              |              |
-| 5     |         |                             |              |              |
+| 5     |    Ciara    Pitfalls of cyrptocurrency |                             |              |              |
 | 6     | Saia    | Fundamentals of encryption  |              |              |
 | 7     | Liam    |                             |              |              |
 | 8     |         |                             |              |              |
@@ -91,7 +91,7 @@
 
 - Misc.
 
-  - [ ] Pitfalls of Cryptocurrency
+  - [x] Pitfalls of Cryptocurrency
 
 - Famous Programmers
 
