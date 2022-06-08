@@ -18,12 +18,12 @@
 | ----- | :--------: |  :---------------------:| :----------: | :----------: |
 | 1     |    Erin    |   Big 0 Notation        |  Docie       |              |
 | 2     | Christelle |   Destructuring         |  Dee         |  Docie       |
-| 3     |    Tony    |     SQL joins           |              |              |
+| 3     |    Tony    |     SQL joins           |      daniel  |              |
 | 4     |   Docie    |  Git Cherry Pick        |  Christelle  |   Erin       |
 | 5     |   Daniel   | DDL, DNL, DCL, TCL      |  Dee         |      tony    |
 | 6     |   Rakim    |        Pure             |              |  david       |
 | 7     |   Lucas    |     Git blame           |.   david     |     tony.    |
-| 8     |    Dee     |Common sorting algorithms|  Christelle  |              |
+| 8     |    Dee     |Common sorting algorithms|  Christelle  |   daniel     |
 | 9     |   David    |SQL INJECTION ATTACK     |    Ysmael    |   Erin       |
 
 ### Group 2
