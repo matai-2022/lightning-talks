@@ -34,9 +34,9 @@
 | 2     |  Mano   | Heartbleed SSL vulnerability|              | Yiyu         |
 | 3     |Jingjing |           Angular           |    Ciara     |              |
 | 4     |  Phu    | Async JS with generators    | Saia         | Jingjing     |
-| 5     |    Ciara|  Pitfalls of cyrptocurrency |         Phu  |              |
+| 5     |    Ciara|  Pitfalls of cyrptocurrency |         Phu  |  Mano        |
 | 6     | Saia    | Fundamentals of encryption  |         Phu  | Yiyu         |
-| 7     | Liam    |                             | Saia         |              |
+| 7     | Liam    |                             | Saia         |  Mano        |
 | 8     |         |                             |              |              |
 
 ## Topics
