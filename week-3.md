@@ -28,16 +28,16 @@
 
 ### Group 2
 
-| Order | Speaker |           Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: |  :---------------------:    | :----------: | :----------: |
-| 1     |  Yiyu   |   Cross site scripting      |    Ysmael    |              |
-| 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
-| 3     |Jingjing |           Angular           |              |              |
-| 4     |         |                             |              |              |
-| 5     |         |                             |              |              |
-| 6     | Saia    | Fundamentals of encryption  |              |              |
-| 7     |         |                             |              |              |
-| 8     | Ysmael  |         Milligram           |              |              |
+| Order | Speaker  |            Topic             | Feedbacker 1 | Feedbacker 2 |
+| ----- | :------: | :--------------------------: | :----------: | :----------: |
+| 1     |   Yiyu   |     Cross site scripting     |    Ysmael    |              |
+| 2     |   Mano   | Heartbleed SSL vulnerability |    Liam      |              |
+| 3     | Jingjing |           Angular            |              |              |
+| 4     |          |                              |              |              |
+| 5     |          |                              |              |              |
+| 6     |   Saia   |  Fundamentals of encryption  |    Liam      |              |
+| 7     |   Liam   |    Homomorphic Eecryption    |              |              |
+| 8     |  Ysmael  |          Milligram           |              |              |
 
 ## Topics
 
