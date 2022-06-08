@@ -24,7 +24,7 @@
 | 6     |   Rakim    |        Pure             |              |              |
 | 7     |   Lucas    |     Git blame           |              |              |
 | 8     |    Dee     |Common sorting algorithms|              |              |
-| 9     |   David    |SQL INJECTION ATTACK     |              |              |
+| 9     |   David    |SQL INJECTION ATTACK     |    Ysmael    |              |
 
 ### Group 2
 
@@ -37,7 +37,7 @@
 | 5     |         |                             |              |              |
 | 6     | Saia    | Fundamentals of encryption  |              |              |
 | 7     |         |                             |              |              |
-| 8     |         |                             |              |              |
+| 8     | Ysmael  |         Milligram           |              |              |
 
 ## Topics
 
@@ -86,7 +86,7 @@
 
 - UI Framework
 
-  - [ ] Milligram
+  - [x] Milligram
   - [x] Pure
 
 - Misc.
