@@ -16,8 +16,8 @@
 
 | Order |  Speaker   |       Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :--------: |  :---------------------:| :----------: | :----------: |
-| 1     |    Erin    |   Big 0 Notation        |              |              |
-| 2     | Christelle |   Destructuring         |  Dee         |              |
+| 1     |    Erin    |   Big 0 Notation        |  Docie       |              |
+| 2     | Christelle |   Destructuring         |  Dee         |  Docie       |
 | 3     |    Tony    |     SQL joins           |              |              |
 | 4     |   Docie    |  Git Cherry Pick        |  Christelle  |   Erin       |
 | 5     |   Daniel   | DDL, DNL, DCL, TCL      |  Dee         |              |
