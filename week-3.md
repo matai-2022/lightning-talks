@@ -33,10 +33,10 @@
 | 1     |  Yiyu   |   Cross site scripting      |      Ciara   | Jingjing     |
 | 2     |  Mano   | Heartbleed SSL vulnerability|              | Yiyu         |
 | 3     |Jingjing |           Angular           |    Ciara     |              |
-| 4     |  Phu    | Async JS with generators    |              | Jingjing     |
+| 4     |  Phu    | Async JS with generators    | Saia         | Jingjing     |
 | 5     |    Ciara|  Pitfalls of cyrptocurrency |         Phu  |              |
 | 6     | Saia    | Fundamentals of encryption  |         Phu  | Yiyu         |
-| 7     | Liam    |                             |              |              |
+| 7     | Liam    |                             | Saia         |              |
 | 8     |         |                             |              |              |
 
 ## Topics
