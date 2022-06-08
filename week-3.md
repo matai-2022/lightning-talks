@@ -16,20 +16,30 @@
 
 | Order |  Speaker   |       Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :--------: |  :---------------------:| :----------: | :----------: |
-| 1     |    Erin    |   Big 0 Notation        |              |              |
-| 2     | Christelle |   Destructuring         |              |              |
+| 1     |    Erin    |   Big 0 Notation        |  Docie       |              |
+| 2     | Christelle |   Destructuring         |  Dee         |  Docie       |
 | 3     |    Tony    |     SQL joins           |              |              |
+<<<<<<< HEAD
 | 4     |   Docie    |  Git Cherry Pick        |              |              |
 | 5     |   Daniel   | DDL, DNL, DCL, TCL      |              |              |
 | 6     |   Rakim    |        Pure             |              |              |
 | 7     |   Lucas    |     Git blame           |              |              |
 | 8     |    Dee     |Common sorting algorithms|              |              |
 | 9     |   David    |SQL INJECTION ATTACK     |    Ysmael    |              |
+=======
+| 4     |   Docie    |  Git Cherry Pick        |  Christelle  |   Erin       |
+| 5     |   Daniel   | DDL, DNL, DCL, TCL      |  Dee         |      tony    |
+| 6     |   Rakim    |        Pure             |              |  david       |
+| 7     |   Lucas    |     Git blame           |.   david     |     tony.    |
+| 8     |    Dee     |Common sorting algorithms|  Christelle  |              |
+| 9     |   David    |SQL INJECTION ATTACK     |              |   Erin       |
+>>>>>>> 82715ca6f7f3b4efc24e536fa777963d61902a03
 
 ### Group 2
 
 | Order | Speaker |           Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: |  :---------------------:    | :----------: | :----------: |
+<<<<<<< HEAD
 | 1     |  Yiyu   |   Cross site scripting      |              |              |
 | 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
 | 3     |Jingjing |           Angular           |              |              |
@@ -38,6 +48,16 @@
 | 6     | Saia    | Fundamentals of encryption  |              |              |
 | 7     |         |                             |              |              |
 | 8     | Ysmael  |         Milligram           |              |              |
+=======
+| 1     |  Yiyu   |   Cross site scripting      |      Ciara   | Jingjing     |
+| 2     |  Mano   | Heartbleed SSL vulnerability|              | Yiyu         |
+| 3     |Jingjing |           Angular           |    Ciara     |              |
+| 4     |  Phu    | Async JS with generators    | Saia         | Jingjing     |
+| 5     |    Ciara|  Pitfalls of cyrptocurrency |         Phu  |  Mano        |
+| 6     | Saia    | Fundamentals of encryption  |         Phu  | Yiyu         |
+| 7     | Liam    |                             | Saia         |  Mano        |
+| 8     |         |                             |              |              |
+>>>>>>> 82715ca6f7f3b4efc24e536fa777963d61902a03
 
 ## Topics
 
@@ -52,7 +72,7 @@
 - ECMAScript 6 (ES6)
 
   - [ ] `Array.from()`, `Array.fill()`
-  - [ ] Asynchronous JavaScript with Generators
+  - [x] Asynchronous JavaScript with Generators
   - [ ] Babel & Transpiling
   - [ ] Default parameters, Rest & Spread operators
   - [x] Destructuring
@@ -91,7 +111,7 @@
 
 - Misc.
 
-  - [ ] Pitfalls of Cryptocurrency
+  - [x] Pitfalls of Cryptocurrency
 
 - Famous Programmers
 
