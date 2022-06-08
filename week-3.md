@@ -14,30 +14,30 @@
 
 ### Group 1
 
-| Order |  Speaker   |       Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :--------: |  :---------------------:| :----------: | :----------: |
-| 1     |    Erin    |   Big 0 Notation        |  Docie       |              |
-| 2     | Christelle |   Destructuring         |  Dee         |  Docie       |
-| 3     |    Tony    |     SQL joins           |      daniel  |              |
-| 4     |   Docie    |  Git Cherry Pick        |  Christelle  |   Erin       |
-| 5     |   Daniel   | DDL, DNL, DCL, TCL      |  Dee         |      tony    |
-| 6     |   Rakim    |        Pure             |              |  david       |
-| 7     |   Lucas    |     Git blame           |.   david     |     tony.    |
-| 8     |    Dee     |Common sorting algorithms|  Christelle  |   daniel     |
-| 9     |   David    |SQL INJECTION ATTACK     |    Ysmael    |   Erin       |
+| Order |  Speaker   |           Topic           | Feedbacker 1 | Feedbacker 2 |
+| ----- | :--------: | :-----------------------: | :----------: | :----------: |
+| 1     |    Erin    |      Big 0 Notation       |    Docie     |              |
+| 2     | Christelle |       Destructuring       |     Dee      |    Docie     |
+| 3     |    Tony    |         SQL joins         |    daniel    |    Lucas     |
+| 4     |   Docie    |      Git Cherry Pick      |  Christelle  |     Erin     |
+| 5     |   Daniel   |    DDL, DNL, DCL, TCL     |     Dee      |     tony     |
+| 6     |   Rakim    |           Pure            |    Lucas     |    david     |
+| 7     |   Lucas    |         Git blame         |   . david    |    tony.     |
+| 8     |    Dee     | Common sorting algorithms |  Christelle  |    daniel    |
+| 9     |   David    |   SQL INJECTION ATTACK    |    Ysmael    |     Erin     |
 
 ### Group 2
 
-| Order | Speaker |           Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: |  :---------------------:    | :----------: | :----------: |
-| 1     |  Yiyu   |   Cross site scripting      |              |              |
-| 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
-| 3     |Jingjing |           Angular           |              |              |
-| 4     |         |                             |              |              |
-| 5     |         |                             |              |              |
-| 6     | Saia    | Fundamentals of encryption  |              |              |
-| 7     |         |                             |              |              |
-| 8     | Ysmael  |         Milligram           |              |              |
+| Order | Speaker  |            Topic             | Feedbacker 1 | Feedbacker 2 |
+| ----- | :------: | :--------------------------: | :----------: | :----------: |
+| 1     |   Yiyu   |     Cross site scripting     |              |              |
+| 2     |   Mano   | Heartbleed SSL vulnerability |              |              |
+| 3     | Jingjing |           Angular            |              |              |
+| 4     |          |                              |              |              |
+| 5     |          |                              |              |              |
+| 6     |   Saia   |  Fundamentals of encryption  |              |              |
+| 7     |          |                              |              |              |
+| 8     |  Ysmael  |          Milligram           |              |              |
 
 ## Topics
 
