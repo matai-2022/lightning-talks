@@ -31,12 +31,12 @@
 | Order | Speaker  |            Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :--------------------------: | :----------: | :----------: |
 | 1     |   Yiyu   |     Cross site scripting     |              |              |
-| 2     |   Mano   | Heartbleed SSL vulnerability |              |              |
+| 2     |   Mano   | Heartbleed SSL vulnerability |    Liam      |              |
 | 3     | Jingjing |           Angular            |              |              |
 | 4     |          |                              |              |              |
 | 5     |          |                              |              |              |
-| 6     |   Saia   |  Fundamentals of encryption  |              |              |
-| 7     |          |                              |              |              |
+| 6     |   Saia   |  Fundamentals of encryption  |    Liam      |              |
+| 7     |   Liam   |    Homomorphic Eecryption    |              |              |
 | 8     |  Ysmael  |          Milligram           |              |              |
 
 ## Topics
