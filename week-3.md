@@ -24,13 +24,13 @@
 | 6     |   Rakim    |        Pure             |              |  david       |
 | 7     |   Lucas    |     Git blame           |.   david     |     tony.    |
 | 8     |    Dee     |Common sorting algorithms|  Christelle  |              |
-| 9     |   David    |SQL INJECTION ATTACK     |    Ysmael    |   Erin       |
+| 9     |   David    |SQL INJECTION ATTACK     |              |   Erin       |
 
 ### Group 2
 
 | Order | Speaker |           Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: |  :---------------------:    | :----------: | :----------: |
-| 1     |  Yiyu   |   Cross site scripting      |              |              |
+| 1     |  Yiyu   |   Cross site scripting      |    Ysmael    |              |
 | 2     |  Mano   | Heartbleed SSL vulnerability|              |              |
 | 3     |Jingjing |           Angular           |              |              |
 | 4     |         |                             |              |              |
