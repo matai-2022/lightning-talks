@@ -20,9 +20,9 @@
 | 2     | Christelle |   Destructuring         |  Dee         |  Docie       |
 | 3     |    Tony    |     SQL joins           |              |              |
 | 4     |   Docie    |  Git Cherry Pick        |  Christelle  |   Erin       |
-| 5     |   Daniel   | DDL, DNL, DCL, TCL      |  Dee         |              |
+| 5     |   Daniel   | DDL, DNL, DCL, TCL      |  Dee         |      tony    |
 | 6     |   Rakim    |        Pure             |              |  david       |
-| 7     |   Lucas    |     Git blame           |.   david     |              |
+| 7     |   Lucas    |     Git blame           |.   david     |     tony.    |
 | 8     |    Dee     |Common sorting algorithms|  Christelle  |              |
 | 9     |   David    |SQL INJECTION ATTACK     |              |   Erin       |
 
