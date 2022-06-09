@@ -30,14 +30,14 @@
 
 | Order | Speaker  |            Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :--------------------------: | :----------: | :----------: |
-| 1     |   Yiyu   |     Cross site scripting     |     ciara         |              |
-| 2     |   Mano   | Heartbleed SSL vulnerability |    ciara          |              |
-| 3     | Jingjing |           Angular            |              |              |
-| 4     |      ciara    |        Pitfalls of Cryptocurrency                      |              |              |
+| 1     |   Yiyu   |     Cross site scripting     |     ciara         |     Jingjing         |
+| 2     |   Mano   | Heartbleed SSL vulnerability |    ciara          |     Liam         |
+| 3     | Jingjing |           Angular            |      Ysmael        |      Yiyu        |
+| 4     |      ciara    |        Pitfalls of Cryptocurrency              |     Mano         |     Jingjing         |
 | 5     |          |                              |              |              |
-| 6     |   Saia   |  Fundamentals of encryption  |              |              |
-| 7     |          |                              |              |              |
-| 8     |  Ysmael  |          Milligram           |              |              |
+| 6     |   Saia   |  Fundamentals of encryption  |        Liam      |    Ysmael          |
+| 7     |      Liam    |                              |      Mano        |    Saia          |
+| 8     |  Ysmael  |          Milligram           |      Saia        |     Yiyu         |
 
 ## Topics
 
