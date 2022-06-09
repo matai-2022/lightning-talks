@@ -21,23 +21,22 @@
 | 3     |    Tony    |         SQL joins         |    daniel    |    Lucas     |
 | 4     |   Docie    |      Git Cherry Pick      |  Christelle  |     Erin     |
 | 5     |   Daniel   |    DDL, DNL, DCL, TCL     |     Dee      |     tony     |
-| 6     |   Rakim    |           Pure            |    Lucas     |    david     |
-| 7     |   Lucas    |         Git blame         |   . david    |    tony.     |
+| 6     |   Rakim    |           Pure            |    Lucas     |    Erin     |
+| 7     |   Lucas    |         Git blame         |   . Rakim    |    tony.     |
 | 8     |    Dee     | Common sorting algorithms |  Christelle  |    daniel    |
-| 9     |   David    |   SQL INJECTION ATTACK    |    Rakim     |     Erin     |
 
 ### Group 2
 
 | Order | Speaker  |            Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :--------------------------: | :----------: | :----------: |
 | 1     |   Yiyu   |     Cross site scripting     |     ciara         |     Jingjing         |
-| 2     |   Mano   | Heartbleed SSL vulnerability |    ciara          |     Liam         |
-| 3     | Jingjing |           Angular            |      Ysmael        |      Yiyu        |
+| 2     |   Mano   | Heartbleed SSL vulnerability |    ciara          |     David         |
+| 3     | Jingjing |           Angular            |      David        |      Yiyu        |
 | 4     |      ciara    |        Pitfalls of Cryptocurrency              |     Mano         |     Jingjing         |
-| 5     |          |                              |              |              |
-| 6     |   Saia   |  Fundamentals of encryption  |        Liam      |    Ysmael          |
-| 7     |      Liam    |                              |      Mano        |    Saia          |
-| 8     |  Ysmael  |          Milligram           |      Saia        |     Yiyu         |
+| 5     |   Saia   |  Fundamentals of encryption  |        Liam      |    Ysmael          |
+| 6     |      Liam    |               Homomorphic encryption               |      Mano        |    Saia          |
+| 7     |  Ysmael  |          Milligram           |      Saia        |     Yiyu         |
+| 8     |    David     |              SQL INJECTION ATTACK                |        Ysmael      |    Liam          |
 
 ## Topics
 
