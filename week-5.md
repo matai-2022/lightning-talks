@@ -17,7 +17,7 @@
 
 | Order | Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---------------------------: | :----------: | :----------: |
-| 1     |         |                               |              |              |
+| 1     |   Erin  |      TypeScript              |              |              |
 | 2     |         |                               |              |              |
 | 3     |         |                               |              |              |
 | 4     |         |                               |              |              |
@@ -82,7 +82,7 @@
 
 - Transpiled languages
 
-  - [ ] TypeScript
+  - [x] TypeScript
   - [ ] CoffeeScript
   - [ ] ClosureScript
   - [ ] Elm
