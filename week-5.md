@@ -18,7 +18,7 @@
 | Order | Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---------------------------: | :----------: | :----------: |
 | 1     |   Erin  |      TypeScript              |              |              |
-| 2     |         |                               |              |              |
+| 2     | Docie   |     Tailwind CSS              |              |              |
 | 3     |         |                               |              |              |
 | 4     |         |                               |              |              |
 | 5     |         |                               |              |              |
@@ -105,7 +105,7 @@
 
 - UI Framework
 
-  - [ ] TailwindCSS
+  - [X] TailwindCSS
   - [ ] UIkit
 
 * Famous Programmers
