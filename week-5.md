@@ -22,7 +22,7 @@
 | 3     |         |                               |              |              |
 | 4     |         |                               |              |              |
 | 5     |         |                               |              |              |
-| 6     |         |                               |              |              |
+| 6     | david   |  how to make chrome extensionss|              |              |
 | 7     |         |                               |              |              |
 | 8     |         |                               |              |              |
 | 9     |         |                               |              |              |
@@ -99,7 +99,7 @@
 
 - Other types of app experiences
 
-  - [ ] How to make a Chrome Extension
+  - [x] How to make a Chrome Extension
   - [ ] How to make a Firefox plugin
   - [ ] Electron
 
