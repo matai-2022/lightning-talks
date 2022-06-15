@@ -23,7 +23,7 @@
 | 4     |daniel   |    three 3js                  |              |              |
 | 5     |         |                               |              |              |
 | 6     | david   |  how to make chrome extensionss|              |              |
-| 7     |         |                               |              |              |
+| 7     |  Liam   |                               |              |              |
 | 8     |         |                               |              |              |
 | 9     |         |                               |              |              |
 
