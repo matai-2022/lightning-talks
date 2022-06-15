@@ -20,7 +20,7 @@
 | 1     |   Erin  |      TypeScript              |              |              |
 | 2     | Docie   |     Tailwind CSS              |              |              |
 | 3     |         |                               |              |              |
-| 4     |         |                               |              |              |
+| 4     |daniel   |    three 3js                  |              |              |
 | 5     |         |                               |              |              |
 | 6     | david   |  how to make chrome extensionss|              |              |
 | 7     |         |                               |              |              |
@@ -63,7 +63,7 @@
 - JavaScript libraries
 
   - [ ] CycleJS
-  - [ ] Three.js
+  - [x] Three.js
   - [ ] D3.js
   - [ ] Ember
 
