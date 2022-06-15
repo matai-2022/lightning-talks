@@ -17,9 +17,9 @@
 
 | Order | Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---------------------------: | :----------: | :----------: |
-| 1     |   Erin  |      TypeScript              |              |              |
-| 2     | Docie   |     Tailwind CSS              |              |              |
-| 3     |         |                               |              |              |
+| 1     |   Erin  |      TypeScript              |       ciara       |              |
+| 2     | Docie   |     Tailwind CSS              |        ciara      |              |
+| 3     |   Ciara      |                    Richard Stallman           |              |              |
 | 4     |daniel   |    three 3js                  |              |              |
 | 5     |         |                               |              |              |
 | 6     | david   |  how to make chrome extensionss|              |              |
@@ -114,7 +114,7 @@
   - [ ] Barbara Liskov
   - [ ] Hedy Lamarr
   - [ ] Mary Wilkes
-  - [ ] Richard Stallman
+  - [x] Richard Stallman
   - [ ] Roy Fielding
   - [ ] Sandi Metz
   - [ ] Steve Wozniak
