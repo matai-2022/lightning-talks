@@ -12,39 +12,38 @@
 
 ## Schedule
 
-
 ### Group 1
 
-| Order | Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :---------------------------: | :----------: | :----------: |
-| 1     |   Erin  |      TypeScript              |       ciara       |              |
-| 2     | Docie   |     Tailwind CSS              |        ciara      |              |
-| 3     |   Ciara      |                    Richard Stallman           |              |              |
-| 4     |daniel   |    three 3js                  |              |              |
-| 5     |         |                               |              |              |
-| 6     | david   |  how to make chrome extensionss|              |              |
-| 7     |  Liam   |                               |              |              |
-| 8     |         |                               |              |              |
-| 9     |         |                               |              |              |
+| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :----------------------------: | :----------: | :----------: |
+| 1     |  Erin   |           TypeScript           |    ciara     |              |
+| 2     |  Docie  |          Tailwind CSS          |    ciara     |              |
+| 3     |  Ciara  |        Richard Stallman        |    Lucas     |              |
+| 4     | daniel  |           three 3js            |              |              |
+| 5     |  Lucas  | What is functional programming |              |              |
+| 6     |  david  | how to make chrome extensionss |    Lucas     |              |
+| 7     |  Liam   |                                |              |              |
+| 8     |         |                                |              |              |
+| 9     |         |                                |              |              |
 
 ### Group 2
 
-| Order | Speaker |             Topic             | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :---------------------------: | :----------: | :----------: |
-| 1     |         |                               |              |              |
-| 2     |         |                               |              |              |
-| 3     |         |                               |              |              |
-| 4     |         |                               |              |              |
-| 5     |         |                               |              |              |
-| 6     |         |                               |              |              |
-| 7     |         |                               |              |              |
-| 8     |         |                               |              |              |
+| Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :---: | :----------: | :----------: |
+| 1     |         |       |              |              |
+| 2     |         |       |              |              |
+| 3     |         |       |              |              |
+| 4     |         |       |              |              |
+| 5     |         |       |              |              |
+| 6     |         |       |              |              |
+| 7     |         |       |              |              |
+| 8     |         |       |              |              |
 
 ## Topics
 
 - Functional Programming
 
-  - [ ] What is functional programming
+  - [x] What is functional programming
   - [ ] Currying and partial application
 
 - Design patterns
@@ -105,7 +104,7 @@
 
 - UI Framework
 
-  - [X] TailwindCSS
+  - [x] TailwindCSS
   - [ ] UIkit
 
 * Famous Programmers
