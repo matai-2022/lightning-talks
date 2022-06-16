@@ -19,8 +19,8 @@
 | 1     |  Erin   |           TypeScript           |    ciara     |              |
 | 2     |  Docie  |          Tailwind CSS          |    ciara     |              |
 | 3     |  Ciara  |        Richard Stallman        |    Lucas     |              |
-| 4     | daniel  |           three 3js            |              |              |
-| 5     |  Lucas  | What is functional programming |              |              |
+| 4     | daniel  |           three 3js            |     Erin     |              |
+| 5     |  Lucas  | What is functional programming |     Erin     |              |
 | 6     |  david  | how to make chrome extensionss |    Lucas     |              |
 | 7     |  Liam   |                                |              |              |
 | 8     |         |                                |              |              |
