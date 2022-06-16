@@ -17,14 +17,14 @@
 | Order |  Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- |  :-----: | :----------------------------: | :----------: | :----------: |
 | 1     |   Erin   |           TypeScript           |    ciara     |  Christelle  |
-| 2     |   Docie  |          Tailwind CSS          |    ciara     |              |
+| 2     |   Docie  |          Tailwind CSS          |    ciara     |     Yiyu     |
 | 3     |   Ciara  |        Richard Stallman        |    Lucas     |              |
 | 4     |  daniel  |           three 3js            |     Erin     |              |
 | 5     |   Lucas  | What is functional programming |     Erin     |  Christelle  |
 | 6     |   david  | how to make chrome extensionss |    Lucas     |              |
 | 7     |   Liam   |                                |              |              |
-| 8     |Christelle|Currying and partial application|              |              |
-| 9     |          |                                |              |              |
+| 8     |Christelle|Currying and partial application|              |      Yiyu    |
+| 9     |   Yiyu   |         'use strict'           |              |              |
 
 ### Group 2
 
@@ -76,7 +76,7 @@
 
 - JavaScript
 
-  - [ ] `'use strict'`
+  - [x] `'use strict'`
   - [ ] StandardJS
 
 - Transpiled languages
