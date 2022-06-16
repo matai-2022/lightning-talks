@@ -14,17 +14,17 @@
 
 ### Group 1
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |  Erin   |           TypeScript           |    ciara     |              |
-| 2     |  Docie  |          Tailwind CSS          |    ciara     |              |
-| 3     |  Ciara  |        Richard Stallman        |    Lucas     |              |
-| 4     | daniel  |           three 3js            |     Erin     |              |
-| 5     |  Lucas  | What is functional programming |     Erin     |              |
-| 6     |  david  | how to make chrome extensionss |    Lucas     |              |
-| 7     |  Liam   |                                |              |              |
-| 8     |         |                                |              |              |
-| 9     |         |                                |              |              |
+| Order |  Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
+| ----- |  :-----: | :----------------------------: | :----------: | :----------: |
+| 1     |   Erin   |           TypeScript           |    ciara     |              |
+| 2     |   Docie  |          Tailwind CSS          |    ciara     |              |
+| 3     |   Ciara  |        Richard Stallman        |    Lucas     |              |
+| 4     |  daniel  |           three 3js            |     Erin     |              |
+| 5     |   Lucas  | What is functional programming |     Erin     |              |
+| 6     |   david  | how to make chrome extensionss |    Lucas     |              |
+| 7     |   Liam   |                                |              |              |
+| 8     |Christelle|Currying and partial application|              |              |
+| 9     |          |                                |              |              |
 
 ### Group 2
 
@@ -44,7 +44,7 @@
 - Functional Programming
 
   - [x] What is functional programming
-  - [ ] Currying and partial application
+  - [x] Currying and partial application
 
 - Design patterns
 
