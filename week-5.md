@@ -31,9 +31,9 @@
 | Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---: | :----------: | :----------: |
 | 1     |         |       |  Saia        |              |
-| 2     |         |       |  Saia        |              |
-| 3     |         |       |              |              |
-| 4     |         |       |              |              |
+| 2     |  Dee    |MongoDB|  Saia        |              |
+| 3     |         |       |  Dee         |              |
+| 4     |         |       |  Dee         |              |
 | 5     |         |       |              |              |
 | 6     | Saia    | UIKit |              |              |
 | 7     |         |       |              |              |
@@ -55,7 +55,7 @@
 - NoSQL databases
 
   - [ ] Neo4J
-  - [ ] MongoDB
+  - [x] MongoDB
   - [ ] CouchDB
   - [ ] [Secure Scuttlebutt](https://ssbc.github.io/secure-scuttlebutt/)
 
