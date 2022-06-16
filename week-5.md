@@ -30,12 +30,12 @@
 
 | Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---: | :----------: | :----------: |
-| 1     |         |       |              |              |
-| 2     |         |       |              |              |
+| 1     |         |       |  Saia        |              |
+| 2     |         |       |  Saia        |              |
 | 3     |         |       |              |              |
 | 4     |         |       |              |              |
 | 5     |         |       |              |              |
-| 6     |         |       |              |              |
+| 6     | Saia    | UIKit |              |              |
 | 7     |         |       |              |              |
 | 8     |         |       |              |              |
 
@@ -105,7 +105,7 @@
 - UI Framework
 
   - [x] TailwindCSS
-  - [ ] UIkit
+  - [x] UIkit
 
 * Famous Programmers
 
