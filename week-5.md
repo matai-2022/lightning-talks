@@ -30,10 +30,10 @@
 
 | Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---: | :----------: | :----------: |
-| 1     |         |       |  Saia        |              |
+| 1     |         |       |  Saia        |   Jingjing   |
 | 2     |  Dee    |MongoDB|  Saia        |              |
-| 3     |         |       |  Dee         |              |
-| 4     |         |       |  Dee         |              |
+| 3     |Jingjing | MVC   |  Dee         |              |
+| 4     |         |       |  Dee         |   Jingjing   |
 | 5     |         |       |              |              |
 | 6     | Saia    | UIKit |              |              |
 | 7     |         |       |              |              |
@@ -50,7 +50,7 @@
 
   - [ ] Strategy Design Pattern(SDP)
   - [ ] Observer Design Pattern
-  - [ ] Model View Controller (MVC)
+  - [x] Model View Controller (MVC)
 
 - NoSQL databases
 
