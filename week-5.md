@@ -18,10 +18,10 @@
 | ----- |  :-----: | :----------------------------: | :----------: | :----------: |
 | 1     |   Erin   |           TypeScript           |    ciara     |  Christelle  |
 | 2     |   Docie  |          Tailwind CSS          |    ciara     |     Yiyu     |
-| 3     |   Ciara  |        Richard Stallman        |    Lucas     |              |
+| 3     |   Ciara  |        Richard Stallman        |    Lucas     |      daniel  |
 | 4     |  daniel  |           three 3js            |     Erin     |              |
 | 5     |   Lucas  | What is functional programming |     Erin     |  Christelle  |
-| 6     |   david  | how to make chrome extensionss |    Lucas     |              |
+| 6     |   david  | how to make chrome extensionss |    Lucas     |    daniel    |
 | 7     |   Liam   |                                |              |              |
 | 8     |Christelle|Currying and partial application|              |      Yiyu    |
 | 9     |   Yiyu   |         'use strict'           |              |              |
