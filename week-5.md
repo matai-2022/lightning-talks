@@ -19,12 +19,12 @@
 | 1     |   Erin   |           TypeScript           |    ciara     |  Christelle  |
 | 2     |   Docie  |          Tailwind CSS          |    ciara     |     Yiyu     |
 | 3     |   Ciara  |       Data Sovereignity        |    Lucas     |      daniel  |
-| 4     |  daniel  |           three 3js            |     Erin     |              |
+| 4     |  daniel  |           three 3js            |     Erin     |    Docie     |
 | 5     |   Lucas  | What is functional programming |     Erin     |  Christelle  |
 | 6     |   david  | how to make chrome extensionss |    Lucas     |    daniel    |
 | 7     |   Liam   |                                |              |              |
 | 8     |Christelle|Currying and partial application|              |      Yiyu    |
-| 9     |   Yiyu   |         'use strict'           |              |              |
+| 9     |   Yiyu   |         'use strict'           |      Docie   |              |
 
 ### Group 2
 
