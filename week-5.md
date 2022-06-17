@@ -18,7 +18,7 @@
 | ----- |  :-----: | :----------------------------: | :----------: | :----------: |
 | 1     |   Erin   |           TypeScript           |    ciara     |  Christelle  |
 | 2     |   Docie  |          Tailwind CSS          |    ciara     |     Yiyu     |
-| 3     |   Ciara  |        Richard Stallman        |    Lucas     |      daniel  |
+| 3     |   Ciara  |       Data Sovereignity        |    Lucas     |      daniel  |
 | 4     |  daniel  |           three 3js            |     Erin     |              |
 | 5     |   Lucas  | What is functional programming |     Erin     |  Christelle  |
 | 6     |   david  | how to make chrome extensionss |    Lucas     |    daniel    |
@@ -113,7 +113,7 @@
   - [ ] Barbara Liskov
   - [ ] Hedy Lamarr
   - [ ] Mary Wilkes
-  - [x] Richard Stallman
+  - [ ] Richard Stallman
   - [ ] Roy Fielding
   - [ ] Sandi Metz
   - [ ] Steve Wozniak
