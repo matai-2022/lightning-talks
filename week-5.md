@@ -34,7 +34,7 @@
 | 2     |  Dee    |MongoDB|  Saia        |              |
 | 3     |Jingjing | MVC   |  Dee         |              |
 | 4     |         |       |  Dee         |   Jingjing   |
-| 5     | tony    |       |              |              |
+| 5     | tony    |    Electron   |              |              |
 | 6     | Saia    | UIKit |              |              |
 | 7     |         |       |   tony       |              |
 | 8     |         |       |    tony      |              |
@@ -100,7 +100,7 @@
 
   - [x] How to make a Chrome Extension
   - [ ] How to make a Firefox plugin
-  - [ ] Electron
+  - [ x] Electron
 
 - UI Framework
 
