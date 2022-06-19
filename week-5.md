@@ -31,9 +31,9 @@
 | Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---: | :----------: | :----------: |
 | 1     |         |       |  Saia        |   Jingjing   |
-| 2     |  Dee    |MongoDB|  Saia        |              |
-| 3     |Jingjing | MVC   |  Dee         |              |
-| 4     |         |       |  Dee         |   Jingjing   |
+| 2     |  Dee    |MongoDB|  Saia        |   Rakim      |
+| 3     |Jingjing | MVC   |  Dee         |      Rakim  |
+| 4     |  Rakim  |`sed`, `grep`, `ag`|  Dee         |   Jingjing   |
 | 5     | tony    |    Electron   |              |              |
 | 6     | Saia    | UIKit |              |              |
 | 7     |         |       |   tony       |              |
@@ -89,7 +89,7 @@
 - Command line tools
 
   - [ ] `ack`
-  - [ ] `sed`, `grep`, `ag`
+  - [x] `sed`, `grep`, `ag`
   - [ ] `ln`, `ls`
   - [ ] `chmod`, `chown`, `chgrp`
   - [ ] `echo`, `cat`, `tail`
