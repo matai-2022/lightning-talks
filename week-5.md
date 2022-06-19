@@ -34,9 +34,9 @@
 | 2     |  Dee    |MongoDB|  Saia        |   Rakim      |
 | 3     |Jingjing | MVC   |  Dee         |      Rakim  |
 | 4     |  Rakim  |`sed`, `grep`, `ag`|  Dee         |   Jingjing   |
-| 5     | tony    |    Electron   |              |              |
-| 6     | Saia    | UIKit |              |              |
-| 7     |         |       |   tony       |              |
+| 5     | tony    |    Electron   |   mano           |              |
+| 6     | Saia    | UIKit |    mano          |              |
+| 7     |  mano   |       |   tony       |              |
 | 8     |         |       |    tony      |              |
 
 ## Topics
