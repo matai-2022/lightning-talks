@@ -30,7 +30,7 @@
 
 | Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---: | :----------: | :----------: |
-| 1     |         |       |  Saia        |   Jingjing   |
+| 1     |  Phu    |Generators       |  Saia        |   Jingjing   |
 | 2     |  Dee    |MongoDB|  Saia        |   Rakim      |
 | 3     |Jingjing | MVC   |  Dee         |      Rakim  |
 | 4     |  Rakim  |`sed`, `grep`, `ag`|  Dee         |   Jingjing   |
