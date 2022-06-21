@@ -34,7 +34,7 @@
 | 2     |  Dee    |MongoDB|  Saia        |   Rakim      |
 | 3     |Jingjing | MVC   |  Dee         |      Rakim  |
 | 4     |  Rakim  |`sed`, `grep`, `ag`|  Dee         |   Jingjing   |
-| 5     | tony    |    Electron   |   mano           |              |
+| 5     | tony    | echo ,cat ,tail |   mano           |              |
 | 6     | Saia    | UIKit |    mano          |              |
 | 7     |  mano   |       |   tony       |              |
 | 8     |         |       |    tony      |              |
@@ -92,7 +92,7 @@
   - [x] `sed`, `grep`, `ag`
   - [ ] `ln`, `ls`
   - [ ] `chmod`, `chown`, `chgrp`
-  - [ ] `echo`, `cat`, `tail`
+  - [x] `echo`, `cat`, `tail`
   - [ ] `nvm`
   - _Another CLI tool of your choice_ (validate with teacher first)
 
@@ -100,7 +100,7 @@
 
   - [x] How to make a Chrome Extension
   - [ ] How to make a Firefox plugin
-  - [ x] Electron
+  - [] Electron
 
 - UI Framework
 
