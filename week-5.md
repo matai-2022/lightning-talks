@@ -36,7 +36,7 @@
 | 4     |  Rakim  |`sed`, `grep`, `ag`|  Dee         |   Jingjing   |
 | 5     | tony    | echo ,cat ,tail |   mano           |              |
 | 6     | Saia    | UIKit |    mano          |              |
-| 7     |  mano   |       |   tony       |              |
+| 7     |  mano   |    How to make a Firefox plugin    |   tony       |              |
 | 8     |         |       |    tony      |              |
 
 ## Topics
@@ -99,7 +99,7 @@
 - Other types of app experiences
 
   - [x] How to make a Chrome Extension
-  - [ ] How to make a Firefox plugin
+  - [x ] How to make a Firefox plugin
   - [] Electron
 
 - UI Framework
