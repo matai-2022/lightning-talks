@@ -34,8 +34,8 @@
 | 2     |  Dee    |MongoDB|  Saia        |   Rakim      |
 | 3     |Jingjing | MVC   |  Dee         |      Rakim  |
 | 4     |  Rakim  |`sed`, `grep`, `ag`|  Dee         |   Jingjing   |
-| 5     | tony    | echo ,cat ,tail |   mano           |              |
-| 6     | Saia    | UIKit |    mano          |              |
+| 5     | tony    | echo ,cat ,tail |   mano           |  Ysmael   |
+| 6     | Saia    | UIKit |    mano          |   Ysmael | 
 | 7     |  mano   |    How to make a Firefox plugin    |   tony       |              |
 | 8     | Ysmael  | electron |    tony      |              |
 
