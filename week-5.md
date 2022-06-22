@@ -37,7 +37,7 @@
 | 5     | tony    | echo ,cat ,tail |   mano           |              |
 | 6     | Saia    | UIKit |    mano          |              |
 | 7     |  mano   |    How to make a Firefox plugin    |   tony       |              |
-| 8     |         |       |    tony      |              |
+| 8     | Ysmael  | electron |    tony      |              |
 
 ## Topics
 
