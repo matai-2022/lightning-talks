@@ -22,7 +22,7 @@
 | 4     |  daniel  |           three 3js            |     Erin     |    Docie     |
 | 5     |   Lucas  | What is functional programming |     Erin     |  Christelle  |
 | 6     |   david  | how to make chrome extensionss |    Lucas     |    daniel    |
-| 7     |   Liam   |          Code smells           |              |              |
+| 7     |   Liam   |          Code smells           |       david  |   david      |
 | 8     |Christelle|Currying and partial application|      Liam    |      Yiyu    |
 | 9     |   Yiyu   |         'use strict'           |      Docie   |      Liam    |
 
